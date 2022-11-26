@@ -8,5 +8,4 @@
     <style name="greenText" parent="TextAppearance.AppCompat">
         <item name="android:textColor">#0be881</item>
     </style>
-</resources><?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+</resources>
